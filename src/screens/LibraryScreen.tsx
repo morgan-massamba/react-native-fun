@@ -4,7 +4,7 @@ import React from "react";
 export const LibraryScreen = () => {
   return (
     <View>
-      export <Text>LibraryScreen</Text>
+      <Text>LibraryScreen</Text>
     </View>
   );
 };
